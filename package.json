@@ -1,17 +1,19 @@
 {
-  "name": "babelmodule-awesome",
+  "name": "typescript-awesome",
   "version": "0.0.0",
-  "description": "This repository is exists solely for educational purposes.  It's all the code I used while writing an article about ES6 Modules.",
+  "description": "This repository is exists solely for educational purposes.  It's all the code I used while writing an article about ES6 Modules, Browserify, and Babelify.  You can read that article [here](http://advantcomp.com/blog/ES6Modules/).",
   "main": "app.js",
   "dependencies": {
     "gulp": "^3.8.11",
     "gulp-typescript": "^2.4.2",
     "gulp-concat": "^2.5.2",
-    "gulp-sourcemaps": "^1.5.0",
+    "gulp-sourcemaps": "^1.5.0"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
   "license": "ISC",
+  "devDependencies": {
+  }
 }
